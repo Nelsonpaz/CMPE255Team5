@@ -1,15 +1,15 @@
 # CMPE255Team5
-CMPE 255 - Data Mining Spring 2021 Group Project, Team #5
-Sajit Jumani & Nelson Paz
+***CMPE 255 - Data Mining Spring 2021 Group Project, Team #5
+Sajit Jumani & Nelson Paz***
 
 ***CODE Evaluation***
 
 1) Dowload and Upload the "TEAM5 - Daily And Sports Activities Prediction - PROFESSOR Version.ipynb" to Jupiter Notebook
 2) Add the following files to the same directory:
-    # X_train_p.txt
-    # y_train_p.txt
-    # X_test_p.txt
-    # y_test_p.txt
+     X_train_p.txt
+     y_train_p.txt
+     X_test_p.txt
+     y_test_p.txt
 3) Left Click on Kernel. & Restart and Run All. 
 
 The Code will import the necessary Libraries and the perform Two types of Classification: 
