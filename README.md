@@ -15,9 +15,9 @@ Sajit Jumani & Nelson Paz***
 
 The Code will import the necessary Libraries and then perform two types of Classification: 
 
- -_First:_ **Artificial Neural Network Model**: 3 Types (two, three and four layers)
+  - _First:_ **Artificial Neural Network Model**: 3 Types (two, three and four layers)
 
- -_Second:_ **Random Forest Classifier**. 
+  - _Second:_ **Random Forest Classifier**. 
 
 Each Model would train with the provided subset of original data set. 
 After training is completed the model will perform a test run with the remaining data and Output a Score of Accuracy and Loss. 
