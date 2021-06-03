@@ -5,11 +5,12 @@ Sajit Jumani & Nelson Paz***
 ***CODE Evaluation***
 
 1) Download and Upload "TEAM5 - Daily And Sports Activities Prediction - PROFESSOR Version.ipynb" onto a Jupiter Notebook directory. 
+ 
 2) Add the following files to the same directory:
-     X_train_p.txt
-     y_train_p.txt
-     X_test_p.txt
-     y_test_p.txt
+   -  X_train_p.txt
+   -  y_train_p.txt
+   -  X_test_p.txt
+   -  y_test_p.txt
 3) Left Click on Kernel. & then "Restart and Run All". 
 
 The Code will import the necessary Libraries and then perform two types of Classification: 
