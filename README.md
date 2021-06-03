@@ -24,7 +24,7 @@ After training is completed the model will perform a test run with the remaining
 Each Model would output a graph for the confusion Matrix visualization. 
 
 For more Information about the Data Preprocessing please reffer to: 
-"TEAM5 - Daily And Sports Activities Prediction - PROFESSOR Version.ipynb" or "pdf version"
+"TEAM5 - Daily And Sports Activities Prediction - STUDENT Version.ipynb" or "pdf version"
 Original Data set is not attached or linked to the code. 
 
 **About the Original Data:** 
